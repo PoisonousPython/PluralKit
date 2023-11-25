@@ -86,3 +86,4 @@ You probably set your timezone in PluralKit to a specific timezone, and PluralKi
 ### Why am I not able to edit a message via ID? or, Why is PluralKit editing the wrong message?
 It is not possible to edit messages via ID. Please use the full link, or reply to the message.
 
+### What can I do if this bot's user is avoiding ban by discord via use of this bot to obfuscate their actions that are tied to their identity?
